@@ -1,0 +1,25 @@
+{
+  "name": "application_server",
+  "version": "0.1.0",
+  "description": "node.js + vala application server",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rexwhitten/application_server"
+  },
+  "keywords": [
+    "node",
+    "vala",
+    "objects",
+    "data"
+  ],
+  "author": "rexwhitten",
+  "license": "CC 1.0",
+  "bugs": {
+    "url": "https://github.com/rexwhitten/application_server/issues"
+  },
+  "homepage": "https://github.com/rexwhitten/application_server"
+}
